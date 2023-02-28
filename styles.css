@@ -1,0 +1,60 @@
+td{
+	text-align: center;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+th{
+	text-align: center;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+img{
+	align-items: center;
+	display: inline;
+	padding-left: 16px;
+	padding-top: 16px;
+	width: 200px;
+	height: 150px;
+	margin: 10px auto 10px auto;
+	vertical-align: top;
+}
+body{
+	background-color: lightcyan;
+	padding: 16px;
+	font-size: 100%;
+}
+.intro{
+	width: 50%;
+	text-align: center;
+	margin: 10px auto 10px auto;
+				padding-bottom: 8px;
+}
+h1{
+	text-align: center;
+	text-shadow: 1px 1px 1px #333333;
+}
+li{
+	display: inline;
+	padding: 32px;
+	margin: 0px 3px;
+	text-align: center;
+}
+ul{
+				text-align: center;
+				border-top: 2px solid black;
+				border-block: 2px solid black;
+				padding: 16px;
+
+}
+footer{
+	text-align: center;
+}
+a:link{
+	color: none;
+}
+a:visited{
+	color: black;
+}
+a:active{
+	
+}
